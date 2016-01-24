@@ -1,0 +1,11 @@
+{
+  "name": "express_chat",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "socket.io": "*",
+    "express": "~4.13.1",
+    "jade": "*"
+  },
+  "author": "Tim Chen"
+}
